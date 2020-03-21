@@ -1,0 +1,2 @@
+rootProject.name='StartNg Task'
+include ':app'
